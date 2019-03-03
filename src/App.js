@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import {EmitProvider} from "react-emit";
+
 import './App.css';
 import Jsx241 from './Jsx241';
 import Jsx2411 from './Jsx2411';
